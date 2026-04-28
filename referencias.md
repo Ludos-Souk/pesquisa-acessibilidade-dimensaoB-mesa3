@@ -1,0 +1,22 @@
+# Referências
+
+- Apple. *Accessibility*. 2026. https://www.apple.com/accessibility/
+- MDN Web Docs. *Acessibilidade*. 2025. https://developer.mozilla.org/pt-BR/docs/Web/Accessibility
+- MDN Web Docs. *Understanding the Web Content Accessibility Guidelines (WCAG)*. 2025. https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Understanding_WCAG
+- MDN Web Docs. *Accessibility information for web authors*. 2026. https://developer.mozilla.org/en-US/docs/Web/Accessibility/Guides/Information_for_Web_authors
+- W3C Web Accessibility Initiative (WAI). *Introduction to Web Accessibility*. 2026. https://www.w3.org/WAI/fundamentals/accessibility-intro/
+- W3C Web Accessibility Initiative (WAI). *WCAG 2 Overview*. 2025. https://www.w3.org/WAI/standards-guidelines/wcag/
+- Governo Digital. *e-MAG — Modelo de Acessibilidade em Governo Eletrônico*. 2014. https://www.gov.br/governodigital/pt-br/acessibilidade-e-usuario/e-mag
+- Rocha, Janicy Aparecida Pereira; Duarte, Adriana Bogliolo Sirihal. *Diretrizes de acessibilidade web: um estudo comparativo entre as WCAG 2.0 e o e-MAG 3.0*. 2013. https://revista.ibict.br/inclusao/article/view/1678
+- JBS N.V. *Acessibilidade*. s.d. https://ir.jbsglobal.com/pt-br/acessibilidade/
+- PicPay. *Ouvidoria*. s.d. https://picpay.com/pt-br/ouvidoria
+- Canal Rural. *Canal Rural: Seu Portal de Notícias do Agronegócio Brasileiro*. s.d. https://canalrural.com.br/
+- J&F S/A. *J&F S/A*. s.d. https://j-f.gupy.io/
+- Reclame Aqui. *Dificuldade de acesso e discriminação no PicPay devido à exigência de biometria facial para deficiente visual*. 2026. https://www.reclameaqui.com.br/picpay/dificuldade-de-acesso-e-discriminacao-no-picpay-devido-a-exigencia-de-biometria-facial-para-deficiente-visual_CInJAmoW_MkApq8n/
+- Reclame Aqui. *Falta de acessibilidade, descaso*. 2025. https://www.reclameaqui.com.br/picpay/falta-de-acessibilidade-descaso_yyislrjme9b-_k30/
+- Reclame Aqui. *Zero acessibilidade para deficientes auditivos*. 2022. https://www.reclameaqui.com.br/picpay/zero-acessibilidade-para-deficientes-auditivos_aKa3KRWA3_ASo1VS/
+- Flora. *Quem Somos*. s.d. https://flora.com.br/a-flora/sobre/quem-somos/
+- Brasil. *Lei nº 13.146, de 6 de julho de 2015 (Lei Brasileira de Inclusão da Pessoa com Deficiência)*. 2015. https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm
+- Câmara Paulista para Inclusão da Pessoa com Deficiência. *Multa Milionária da Lojas Americanas ensina sobre inclusão de Pessoas com Deficiência*. 2019. https://www.camarainclusao.com.br/noticias/multa-milionaria-da-lojas-americanas-ensina-sobre-inclusao-de-pessoas-com-deficiencia/
+- Portal Miséria. *Enel é multada em R$ 1,2 milhão por falta de acessibilidade no site da concessionária*. 2024. https://www.miseria.com.br/ultimas-noticias/politica/enel-e-multada-em-r-12-milhao-por-falta-de-acessibilidade-no-site-da-concessionaria/
+- UserWay. *The Domino’s ADA Lawsuit – The Cost of Non-Compliance*. 2022. https://userway.org/blog/the-dominos-verdict/
