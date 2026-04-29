@@ -36,3 +36,49 @@ Esta pesquisa investiga como empresas reais tratam a acessibilidade digital, qua
 - PicPay. Ouvidoria. s.d. https://picpay.com/pt-br/ouvidoria
 - W3C Web Accessibility Initiative (WAI). Introduction to Web Accessibility. 2026. https://www.w3.org/WAI/fundamentals/accessibility-intro/
 - W3C Web Accessibility Initiative (WAI). WCAG 2 Overview. 2025. https://www.w3.org/WAI/standards-guidelines/wcag/
+
+# Nosso Time
+
+Este projeto é o resultado do esforço colaborativo de um time apaixonado por tecnologia e inovação.
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top">
+      <table>
+        <tr>
+          <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/lucaslimaoliveira" width="80px;" alt="Lucas Lima"/></td>
+          <td valign="top"><strong>Lucas Lima</strong><br /><a href="https://github.com/lucaslimaoliveira">@lucaslimaoliveira</a><br /><small>Dev Back-end &<br> Banco de dados</small></td>
+        </tr>
+        <tr>
+          <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/giumanara?v=4" width="80px;" alt="Giulia Manara"/></td>
+          <td valign="top"><strong>Giulia Manara</strong><br /><a href="https://github.com/giumanara">@giumanara</a><br /><small>Banco de dados &<br> Dev Front-end</small></td>
+        </tr> 
+      </table>
+    </td>
+    <td width="50">&nbsp;</td> <td valign="top">
+      <table>
+        <tr>
+          <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/gabkbenfica" width="80px;" alt="Gabriela Ricci"/></td>
+          <td valign="top"><strong>Gabriela Ricci</strong><br /><a href="https://github.com/gabkbenfica">@gabkbenfica</a><br /><small>UX Designer &<br> Dev Front-end</small></td>
+        </tr>
+        <tr>
+          <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/u/210363780?v=4" width="80px;" alt="João Maldonado"/></td>
+          <td valign="top"><strong>João Maldonado</strong><br /><a href="https://github.com/joohnyxxz">@joohnyxxz</a><br /><small>Dev Back-end</small></td>
+        </tr>
+      </table> 
+    </td>
+  </tr>
+</table>
+
+# Ludos — Marketplace de Bonecos Colecionáveis
+
+## Ideia Principal do Projeto
+
+*Ludos* é uma plataforma web acessível de marketplace voltada para a venda de bonecos colecionáveis no estilo *Pop Funk, com uma identidade visual inspirada na estética da **Pixar*, colorida, expressiva e cheia de personalidade.
+
+A proposta une o universo do colecionismo com uma experiência de compra moderna, intuitiva e inclusiva. Os bonecos vendidos na plataforma são criados pelos próprios desenvolvedores do projeto, com versões no estilo Pixar geradas por inteligência artificial.
+
+### O que torna o Ludos especial?
+
+- *Estética Pixar* — interface e identidade visual com a magia e o charme característicos da animação da Pixar.
+- *Foco em Pop Funk* — catálogo especializado em bonecos no estilo Pop Funk, atendendo um nicho apaixonado.
