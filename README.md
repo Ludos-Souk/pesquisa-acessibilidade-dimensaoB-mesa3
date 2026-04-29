@@ -47,11 +47,11 @@ Este projeto é o resultado do esforço colaborativo de um time apaixonado por t
       <table>
         <tr>
           <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/lucaslimaoliveira" width="80px;" alt="Lucas Lima"/></td>
-          <td valign="top"><strong>Lucas Lima</strong><br /><a href="https://github.com/lucaslimaoliveira">@lucaslimaoliveira</a><br /><small>Dev Back-end &<br> Banco de dados</small></td>
+          <td valign="top"><strong>Lucas Lima</strong><br /><a href="https://github.com/lucaslimaoliveira">@lucaslimaoliveira</a><br /><small>Dev Back-end,<br> Banco de dados & <br> Documentação contínua.</small></td>
         </tr>
         <tr>
           <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/giumanara?v=4" width="80px;" alt="Giulia Manara"/></td>
-          <td valign="top"><strong>Giulia Manara</strong><br /><a href="https://github.com/giumanara">@giumanara</a><br /><small>Banco de dados &<br> Dev Front-end</small></td>
+          <td valign="top"><strong>Giulia Manara</strong><br /><a href="https://github.com/giumanara">@giumanara</a><br /><small>Banco de dados,<br> Dev Front-end & <br> Documentação contínua.</small></td>
         </tr> 
       </table>
     </td>
@@ -59,11 +59,11 @@ Este projeto é o resultado do esforço colaborativo de um time apaixonado por t
       <table>
         <tr>
           <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/gabkbenfica" width="80px;" alt="Gabriela Ricci"/></td>
-          <td valign="top"><strong>Gabriela Ricci</strong><br /><a href="https://github.com/gabkbenfica">@gabkbenfica</a><br /><small>UX Designer &<br> Dev Front-end</small></td>
+          <td valign="top"><strong>Gabriela Ricci</strong><br /><a href="https://github.com/gabkbenfica">@gabkbenfica</a><br /><small>UX Designer,<br> Dev Front-end & <br> Documentação contínua.</small></td>
         </tr>
         <tr>
           <td valign="top" width="100px"><img src="https://avatars.githubusercontent.com/u/210363780?v=4" width="80px;" alt="João Maldonado"/></td>
-          <td valign="top"><strong>João Maldonado</strong><br /><a href="https://github.com/joohnyxxz">@joohnyxxz</a><br /><small>Dev Back-end</small></td>
+          <td valign="top"><strong>João Maldonado</strong><br /><a href="https://github.com/joohnyxxz">@joohnyxxz</a><br /><small>Dev Back-end & <br> Documentação contínua.</small></td>
         </tr>
       </table> 
     </td>
